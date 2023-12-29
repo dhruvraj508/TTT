@@ -27,7 +27,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 1. Clone the repository:
    ```bash git clone https://github.com/dhruvraj508/TTT.git```
 2. cd TTT
-3. python main.py
+3. python TTT Final.py
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request.
