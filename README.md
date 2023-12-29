@@ -21,7 +21,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ## Requirements
 - Python
-- Pycharm library
+- PyGame library
 
 ## Installation
 1. Clone the repository:
