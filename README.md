@@ -4,10 +4,10 @@
 This is a simple implementation of a 2-player Tic Tac Toe game using the Pygame library in Python.
 
 ## Author
-[Dhruvraj Singh]
+Dhruvraj Singh
 
 ## License
-This project is licensed under the [MIT] License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## How to Play
 - Run the `TTT-grid.py` file to start the game.
